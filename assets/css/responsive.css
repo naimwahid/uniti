@@ -1,0 +1,360 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+
+
+  
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+.slicknav_menu {
+	display:none;
+}
+.main-menu nav ul li a {
+    font-size: 17px;
+    margin: 0px 10px;
+}
+.homepage-text {
+    padding: 0px 6px;
+    margin-top: 25px;
+    margin-bottom: 6px;
+    margin-left: 25px;
+}
+.homepage-text h2 {
+    font-size: 60px;
+}	
+.service-contant {
+    padding: 0px 20px;
+}
+.portfolio-menu button {
+    margin: 0px 5px;
+}
+.portfol-heading-title h2 {
+    padding-right: 7px;
+}
+.portfolio-item:hover .portfol-overlay-content {
+    top: 60px;
+}
+.portfol-overlay-content h6 {
+    margin-top: 12px;
+	font-weight: 400;
+}
+.portfol-overlay-content p {
+    margin-top: -7px;
+}
+.portfol-overlay-content {
+    left: 6px;
+}
+.author-content {
+    margin-top: 75px;
+}
+.author-image {
+    margin-left: 0px;
+}
+.single-blog-area:hover .single-blog-overlay-content {
+    top: 40px;
+}
+.blog-overlay-admin-text {
+    margin-top: 16px;
+}
+.view-blog {
+    margin-top: -15px;
+}
+.single-blog-overlay-content {
+    left: 50px;
+}
+a.blog-overlay-btn {
+    margin-left: -42px;
+}
+.single-blog-contenr h2 {
+    font-size: 16px;
+    padding: 18px 12px 6px;
+}
+.single-blog-contenr h3 {
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+.bolg-btn-area {
+    margin-top: 12px;
+}
+.footer-social {
+    padding-bottom: 25px;
+}
+.footer-author-address p {
+    margin-top: -10px;
+}
+.back-page p a {
+    font-size: 16px;
+}
+.homepage-nowpage nav ul li a {
+    font-size: 16px;
+}
+.homepage-nowpage nav ul li p {
+    font-size: 16px;
+}
+.bolg-details-img h2 {
+    font-weight: 400;
+}
+.post-admin-title {
+    margin-left: -12px;
+    margin-top: 3px;
+}
+.blog-details-video-overlay {
+    left: 110px;
+    top: 60px;
+}
+.tag a {
+    margin: 10px -2px 0 0;
+}
+.previous-post {
+    padding-bottom: 26px;
+}
+.previous-post-content {
+    padding-bottom: 26px;
+}
+.previous-post-admin-content {
+    margin-left: -40px;
+}
+.comment-sent-user-content {
+    padding-top: 12px;
+}
+.comment-sent-user-replay {
+    padding-left: 30px;
+    padding-top: 26px;
+}
+.comment-sent-user-replay:after {
+    top: 300px;
+}
+.comment-sent-user-replay-content {
+	padding-top: 12px;
+}
+.location-map p iframe {
+    height: 350px;
+}
+
+
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .main-menu {
+		display:none;
+	}
+	
+.slicknav_menu {
+	display:block;
+}
+.homepage-image {
+    display: none;
+}
+.homepage-text h2 {
+    font-size: 50px;
+}
+.homepage-text h2:before {
+    left: -20px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    top: 70px;
+}
+.homepage-text h2:after {
+    left: -20px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    top: 10px;
+}
+.homepage-text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.about-image {
+    padding-bottom: 27px;
+}
+.about-heading-title {
+    padding-bottom: 26px;
+}
+.service-contant h2 {
+    padding-bottom: 12px;
+}
+.service-contant p {
+    padding-bottom: 0px;
+}
+.service-section {
+    padding: 25px 0px 36px 0px;
+}
+.portfol-heading-title h2 {
+    padding-right: 16px;
+    padding-bottom: 12px;
+}
+.portfolio-menu button {
+    margin: 0px 6px;
+}
+.portfol-overlay-content {
+    left: 12px;
+}
+.portfolio-item:hover .portfol-overlay-content {
+    top: 62px;
+}
+.portfol-overlay-content h6 {
+    margin-top: 20px;
+}
+.author-image {
+    margin-left: 0px;
+}
+.author-content {
+    text-align: center;
+    margin-top: 26px;
+}
+.blog-overlay-admin-text {
+    margin-top: 42px;
+    text-align: center;
+}
+.single-blog-contenr h2 {
+    padding: 20px 12px 6px;
+}
+.single-blog-contenr h3 {
+    padding-bottom: 6px;
+}
+.footer-head-text-area p {
+    margin-left: -26px;
+}
+.footer-content p {
+    padding-top: 20px;
+}
+.footer-social-icon {
+    padding-bottom: 25px;
+}
+.footer-widget h2 {
+    padding-top: 12px;
+}
+.footer-author-address p {
+    margin-top: -3px;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 4px 10px;
+    font-size: 16px;
+}
+.homepage-nowpage nav ul li a {
+    font-size: 15px;
+    color: #000;
+}
+.homepage-nowpage nav ul li p {
+    font-size: 15px;
+}
+.back-page p a {
+    font-size: 12px;
+}
+.about-details-section {
+    padding: 50px 0px;
+}
+.about-details-image {
+    padding-bottom: 27px;
+}
+.about-details-heading-title h2 {
+    padding-bottom: 20px;
+}
+.about-work-heading-title h2 {
+    padding-bottom: 20px;
+}
+.blog-pagination nav ul li a {
+    font-size: 16px;
+    padding: 3px 10px;
+}
+.blog-pagination nav ul li a i {
+    font-size: 16px;
+}
+.contact-title {
+    padding-top: 32px;
+}
+.bolg-details-img h2 {
+    font-size: 22px;
+    font-weight: 400;
+}
+.post-admin-area {
+    padding: 0px 0px;
+    margin-top: -12px;
+}
+.post-view ul {
+    text-align: left;
+    margin-top: 17px;
+}
+.blog-hilight p:before {
+    top: 25px;
+    height: 183px;
+}
+.blog-details-content-text {
+    padding-top: 27px;
+}
+.tag {
+    margin-top: 3px;
+}
+.tag {
+    display: block;
+}
+.tag a {
+    margin: 10px 6px 0 0;
+}
+.share ul {
+    margin-top: 25px;
+    margin-left: -30px;
+}
+.next-previous-post-area {
+    padding-top: 50px;
+}
+.previous-post-content h2 {
+    padding-top: 20px;
+}
+.previous-post-admin-content {
+    margin-left: --50px;
+    margin-top: 6px;
+}
+.previous-post-content {
+    padding-bottom: 40px;
+}
+.next-post-content h2 {
+    text-align: left;
+}
+.next-post-admin-content {
+    margin-top: 6px;
+}
+.next-post-link {
+    padding-bottom: 20px;
+}
+.comment-sent-user-content h3 {
+    padding-top: 12px;
+}
+.comment-sent-user-replay-content h3 {
+    padding-top: 12px;
+}
+.comment-sent-user-replay {
+    padding-left: 26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.comment-sent-user-replay:after {
+    top: 290px;
+}
+.footer-image-title {
+    padding-left: 12px;
+}
+.location-map p iframe {
+    height: 300px;
+}
+
+
+
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.main-menu {
+		display:none;
+	}
+	
+.slicknav_menu {
+	display:block;
+}
+
+
+
+}
